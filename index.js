@@ -56,4 +56,4 @@ function admit(age = 0, name = "") {
     }
 }
 console.log(admit(19, "Elo"));
-  // use greet, isAnAdult and yearsToAdulthood to help you!
+
